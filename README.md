@@ -159,8 +159,8 @@ A complete model card is included in `model_card.md`, covering:
 
 ```bash
 
-git clone https://github.com/Mansi-3s/Part_03-D2C-Churn-Prediction-Model.git
-cd Part_03-D2C-Churn-Prediction-Model
+git clone https://github.com/Mansi-3s/Part_03_D2C_Churn-Prediction.git
+cd Part 3: Churn Prediction Model & Model Card
 
 ## Install dependencies:
 
