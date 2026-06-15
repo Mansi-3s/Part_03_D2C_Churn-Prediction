@@ -24,15 +24,15 @@ Churn within next 60 days
 - XGBoost
 
 ## Final Model
-XGBoost
+Logistic Regression
 
 ## Performance
 
-Accuracy:
-Precision:
-Recall:
-F1:
-ROC-AUC:
+Accuracy: 0.8036
+Precision: 0.8000
+Recall: 0.8095
+F1: 0.8047
+ROC-AUC: 0.8887
 
 ## Threshold
 Chosen using validation F1 optimization.
