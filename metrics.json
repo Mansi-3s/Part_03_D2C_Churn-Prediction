@@ -1,9 +1,10 @@
 {
-    "accuracy": 0.8185,
+    "best_model": Logistic Regression,
+    "accuracy": 0.81845,
     "precision": 0.7772,
     "recall": 0.8929,
     "f1_score": 0.831,
-    "roc_auc": 0.8887,
+    "roc_auc": 0.888747,
     "confusion_matrix": {
         "true_negative": 125,
         "false_positive": 43,
